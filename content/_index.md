@@ -4,14 +4,14 @@ description: "This is the Official Site of the uppercases band."
 ---
 
 {{< lead >}}
-The music
+Music for the weary
 {{< /lead >}}
 
+<!--
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
     {{< icon "exclamation-triangle" >}}
   </span>
-  <!--
   <span class="flex items-center justify-between grow dark:text-neutral-300">
     <span class="prose dark:prose-invert">This is a demo of the <code id="layout">page</code> layout.</span>
     <button
@@ -21,6 +21,6 @@ The music
       Switch layout &orarr;
     </button>
   </span>
-  -->
 </div>
+-->
 

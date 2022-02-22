@@ -9,7 +9,7 @@
 #defaultAppearance = "light" # valid options: light or dark
 
 colorScheme = "slate"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 
 
 autoSwitchAppearance = true

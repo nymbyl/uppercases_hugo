@@ -6,19 +6,19 @@ weight = 1
 rtl = false
 
 title = "uppercases"
-# logo = "img/logo.jpg"
+logo = "img/logo-transparent.png"
 description = "The Official Site"
 #copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  # name = "Your name here"
-  # image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
+  name = "uppercases"
+  #image = "img/logo-transparent-small-1x1.png"
+  headline = "The ensemble"
+  bio = "There is music here"
   # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+  #   { email = "mailto:hello@uppercases.co" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
