@@ -4,7 +4,7 @@ description: "This is the Official Site of the uppercases band."
 ---
 
 {{< lead >}}
-Music for the weary
+Music
 {{< /lead >}}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hGLA7q1sfHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
