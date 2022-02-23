@@ -14,10 +14,10 @@ description = "The Official Site"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "uppercases"
+  #name = "uppercases"
   #image = "img/logo-transparent-small-1x1.png"
-  headline = "The ensemble"
-  bio = "There is music here"
+  #headline = "The ensemble"
+  #bio = "There is music here"
   # links = [
   #   { email = "mailto:hello@uppercases.co" },
   #   { link = "https://link-to-some-website.com/" },

@@ -11,7 +11,7 @@
 colorScheme = "slate"
 defaultAppearance = "light" # valid options: light or dark
 
-
+attribution = false
 autoSwitchAppearance = true
 showAppearanceSwitcher = false
 
