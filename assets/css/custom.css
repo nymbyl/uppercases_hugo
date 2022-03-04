@@ -1,8 +1,9 @@
 
 /* Increase the default font size */
 html {
-  font-size: 14pt;
-  background: url(/Upper_Cases_art_2.png) no-repeat center center fixed; 
+  /* font-size: 14pt; */
+  /* background: url(/Upper_Cases_art_2.png) no-repeat center center fixed; */ 
+  background: url(/hotel-1.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -14,4 +15,11 @@ body {
   opacity: 0.8;
 }
 
+header {
+  opacity: 1;
+}
+
+#main-content {
+  opacity: 1;
+}
 
