@@ -12,12 +12,6 @@ description: "This is the Official Site of the uppercases band."
 Music
 {{< /lead >}}
 
-{{< figure
-    src="Upper_Cases_art_1.png"
-    alt="Abstract purple artwork"
-    caption="Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)"
-    >}}
-
 -->
 
 <!--
