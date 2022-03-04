@@ -4,7 +4,7 @@
 
 # baseURL = "https://your_domain.com/"
 theme = "congo"
-title = "uppercases: Official Site"
+#title = "uppercases: Official Site"
 description = "uppercases: The Official Site"
 
 defaultContentLanguage = "en"

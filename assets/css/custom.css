@@ -1,0 +1,17 @@
+
+/* Increase the default font size */
+html {
+  font-size: 14pt;
+  background: url(/Upper_Cases_art_2.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+body {
+  opacity: 0.8;
+}
+
+

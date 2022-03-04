@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "uppercases"
+#title = "uppercases"
 #logo = "img/logo-transparent.png"
 logo = "img/larger-logo.png"
 description = "The Official Site"
