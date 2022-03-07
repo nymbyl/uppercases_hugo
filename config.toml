@@ -1,6 +1,6 @@
 baseurl = "https://uppercases.co"
-title = "Hugo Tanka Theme Demo"
-author = "Nan Xiao"
+title = "Uppercases Site"
+author = "Rob Nelson"
 canonifyurls = true
 languagecode = "en"
 #theme = "uppercases"
