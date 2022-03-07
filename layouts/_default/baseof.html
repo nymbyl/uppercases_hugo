@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    
+    <title>Upper Cases</title>
+	
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/typekit.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/other.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css">
+     
+      <meta name="description" content="The official Upper Cases site."/>
+      <meta property="og:title" content="Upper Cases"/>
+      <meta property="og:description" content="The official Upper Cases site."/>
+      <meta property="og:type" content="website"/>
+      <meta property="og:url" content="{{ .Permalink }}"/>
+      <meta property="og:site_name" content="Upper Cases"/>
+    
+    <script src="https://kit.fontawesome.com/ff46203259.js" crossorigin="anonymous"></script>
+</head>
+
+<body class="vflex-spb">
+  
+	<header class="vflex-spa">
+	  <a href="{{ .Site.BaseURL }}">
+  	   <img src="/larger-logo.png" alt="Upper Cases">
+		</a>
+		
+		<nav>
+			  <a href="/about">About</a>
+			  <a href="/merchandise">Merchandise</a>
+			  <a href="/songs">Music</a>
+		</nav>
+	</header>
+  	
+  <main id="content" class="transition-fade">
+    <section class="grid">
+      {{ block "main" . }}{{ end }}
+    </section>
+  </main>
+  
+
+</body>
+</html>
+

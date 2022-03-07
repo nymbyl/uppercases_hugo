@@ -1,0 +1,35 @@
+baseurl = "https://example.com"
+title = "Hugo Tanka Theme Demo"
+author = "Nan Xiao"
+canonifyurls = true
+languagecode = "en"
+#theme = "uppercases"
+
+enableEmoji = false
+hasCJKLanguage = false
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+
+[params]
+  sitename = "Upper Cases"
+  faviconfile = "images/favicon.png"
+  progressively = false
+# commentsrepo = "user/repo"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.primary]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.primary]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  
