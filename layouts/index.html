@@ -1,9 +1,11 @@
 {{ define "main" }}
-  {{ range .Pages }}
+
+  {{ range .Site.RegularPages }}
   <div class="item">
 	  <div class="item-wrapper">
         {{ .Content }}
 	  </div>
   </div>
   {{ end }}
+
 {{ end }}
