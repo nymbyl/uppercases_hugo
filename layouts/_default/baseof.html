@@ -26,9 +26,13 @@
   {{- partial "header.html" . -}}
 
   <main id="content" class="transition-fade">
+    {{- block "main" . }}{{- end }}
+    
+    <!--
     <section class="grid">
-      {{- block "main" . }}{{- end }}
+    {{- block "grid" . }}{{- end }}
     </section>
+    -->
   </main>
   
 

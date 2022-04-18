@@ -1,6 +1,10 @@
 {{ define "main" }}
 
-  {{ range .Site.RegularPages }}
+<p>
+Upper Cases are an American experimental indie-pop band from North Carolina. Their genre-twisting sound is often characterized as psychedelic dream pop with an Americana and Western spin. Upper Cases will release their first album later this year [2022] on Buzz Colony Recordings.
+</p>
+
+  {{ range (where .Site.RegularPages "Section" "songs")}}
   <div class="item">
 	  <div class="item-wrapper">
         {{ .Content }}

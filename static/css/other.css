@@ -284,6 +284,7 @@ body.loading {
 /* MAIN CONTENT */
 main {
   margin: auto;
+  margin-top: 0;
 	max-width: 1250px;
 	width: 96vw;
 }
