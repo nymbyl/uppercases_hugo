@@ -76,12 +76,9 @@ body {
 	overflow-x: hidden;
 	width: 100%;
 	min-height: 100vh;
-	font-size: 13px;
-	
-	
-  	font-family: 'bookmania', sans-serif;
-	
-	
+	/* font-size: 13px; */
+  font-size: 14px;
+  font-family: 'bookmania', sans-serif;
 	color: #1d1d1d;
 	background: #faf9f5;
 }
